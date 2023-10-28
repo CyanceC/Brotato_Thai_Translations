@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.en.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.th.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.fr.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.zh.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.ja.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.ko.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.zh_TW.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.ru.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.pl.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.es.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.pt.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.de.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.tr.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.it.translation" ]
+
+source_file="res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.csv"
+dest_files=[ "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.en.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.th.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.fr.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.zh.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.ja.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.ko.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.zh_TW.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.ru.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.pl.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.es.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.pt.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.de.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.tr.translation", "res://mods-unpacked/Cyance-ThaiTn/translations/translations-v1.0.0.3_cyance.it.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

@@ -1,0 +1,17 @@
+{
+	"name": "ThaiTn",
+	"namespace": "Cyance",
+	"version_number": "1.0.0",
+	"description": "ThaiTranslations",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["Cyance"],
+			"compatible_mod_loader_version": ["6.0.0"],
+			"compatible_game_version": ["0.8.0.3"],
+			"config_defaults": {}
+		}
+	}
+}
